@@ -1,1 +1,9 @@
 # jr
+### *text*
+### **text**
+### ~~text~~
+### ***text***
+### ~~*text*~~
+### ~~***text***~~
+### [vk](https://vk.com)
+![Alt-текст](https://github.com/jrdaan/jr/blob/main/20220328-kot-post.jpg "1")
